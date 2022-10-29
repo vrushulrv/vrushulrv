@@ -1,4 +1,4 @@
-Backend Test
+Backend
 
 created a web API which gives the response as per the requirement :
 
@@ -9,7 +9,7 @@ https://localhost:44386/api/campaign/ActiveCampaigns
 https://localhost:44386/api/campaign/ClosedCampaigns
 
 
-Frontend Test
+Frontend using React
 
 Created a webpage showing 3 products as per requirement. 
 On changing currency, it is calling the mentioned URL and calculating the value using the exchange rate in the response.
